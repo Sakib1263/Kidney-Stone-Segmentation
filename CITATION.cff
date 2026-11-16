@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this implementation, please cite the associated article.
+title: Kidney Stone Segmentation
+type: software
+authors:
+- name: Kidney Stone Segmentation contributors
+repository-code: https://github.com/Sakib1263/Kidney-Stone-Segmentation
+preferred-citation:
+  type: article
+  title: Enhancing kidney stone segmentation in computed tomography images through
+    successive scope reduction and intra-framework feature transfer
+  authors:
+  - family-names: Mahmud
+    given-names: Sakib
+    orcid: https://orcid.org/0000-0002-4599-2192
+  - family-names: Chowdhury
+    given-names: Muhammad E.H.
+  - family-names: Abbas
+    given-names: Tariq O.
+  - family-names: Bensaali
+    given-names: Faycal
+  journal: Biomedical Signal Processing and Control
+  year: 2026
+  doi: 10.1016/j.bspc.2026.109894
